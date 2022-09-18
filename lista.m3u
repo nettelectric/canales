@@ -4,11 +4,3 @@
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
 #EXITINF :-1 ,HISPANTV
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
-#exitinf :-1 , tv milagro
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/media_w946857789_5984.ts
-#exitinf :-1 .canaldocriador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/media_w1012882642_b1065000_sleng_12905.ts
-#exitinf :-1 ,agrobrasil
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1350503519.m3u8
-exitinf :-1 ,canal rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/media_w1898264976_b1065000_sleng_12957.ts
